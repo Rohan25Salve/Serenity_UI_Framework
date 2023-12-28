@@ -2,7 +2,6 @@ package OrangeHrm.stepdefinationfile;
 
 import OrangeHrm.pageaction.HomePageAction;
 import OrangeHrm.pageaction.LoginePageAction;
-import io.cucumber.core.backend.ScenarioScoped;
 import io.cucumber.java.After;
 import io.cucumber.java.AfterStep;
 import io.cucumber.java.Before;
