@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="OrangeHr_UI_Automation" />
+          <option value="OrangeHr_UI_Automation" />
+          <option value="OrangeHr_UI_Automation" />
+          <option value="OrangeHr_UI_Automation" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="com.beust:jcommander:1.48" />
+          <option value="com.google.code.gson:gson:2.8.8" />
+          <option value="com.thoughtworks.xstream:xstream:1.4.18" />
+          <option value="org.apache.tika:tika-core:1.4" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="In progress" />
+          <option value="Not exploitable" />
+          <option value="In progress" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
