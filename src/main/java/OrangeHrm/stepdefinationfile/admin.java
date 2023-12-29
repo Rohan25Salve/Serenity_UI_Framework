@@ -1,0 +1,16 @@
+package OrangeHrm.stepdefinationfile;
+
+import io.cucumber.java.en.And;
+import net.serenitybdd.screenplay.Actor;
+import static OrangeHrm.pageaction.adminPageAction.userclickonsideBar;
+
+public class admin {
+
+    @And("{actor} Click on {string} Side bar tab")
+    public void userclickonsidebar(Actor actor,String sidebar) {
+        actor.attemptsTo(
+                userclickonsideBar(sidebar)
+                );
+    }
+
+}
