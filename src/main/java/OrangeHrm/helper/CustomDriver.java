@@ -23,4 +23,9 @@ public class CustomDriver implements DriverSource {
     public boolean takesScreenshots() {
         return false;
     }
+
+
+    public  boolean retu() {
+        return false;
+    }
 }
