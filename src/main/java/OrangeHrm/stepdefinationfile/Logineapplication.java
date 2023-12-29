@@ -58,5 +58,7 @@ public class Logineapplication {
                 LoginePageAction.openBrowser(),
                 LoginePageAction.loggdIn(role)
         );
+
+
     }
 }
