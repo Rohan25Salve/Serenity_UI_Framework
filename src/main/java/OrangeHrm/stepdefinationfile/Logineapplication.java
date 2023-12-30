@@ -50,11 +50,15 @@ public class Logineapplication {
                 HomePageAction.logOut());
     }
 
-    @Given("{actor} logged into Ornage application as {string} profile user")
-    public void userLoggedIntoOrnageApplicationAsProfileUser(Actor actor,String role) {
-        actor.wasAbleTo(
+
+
+    @Given("{actor} logged into Orange application as {string} profile user")
+    public void userLoggedIntoOrangeApplicationAsProfileUser(Actor actor,String role) {
+        actor.attemptsTo(
                 LoginePageAction.openBrowser(),
                 LoginePageAction.loggdIn(role)
         );
+
+
     }
 }
