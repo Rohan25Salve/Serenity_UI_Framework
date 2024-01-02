@@ -20,6 +20,9 @@
         <parallel.tests>2</parallel.tests>
     </properties>
 
+
+
+
     <dependencies>
         <dependency>
             <groupId>org.apache.pdfbox</groupId>
@@ -107,10 +110,41 @@
         </dependency>
 
         <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-core</artifactId>
+            <version>2.3</version>
+        </dependency>
+        <dependency>
+            <groupId>commons-logging</groupId>
+            <artifactId>commons-logging</artifactId>
+            <version>1.1.1</version>
+        </dependency>
+
+        <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi</artifactId>
             <version>5.2.2</version>
         </dependency>
+
+        <dependency>
+        <groupId>org.apache.kafka</groupId>
+        <artifactId>kafka_2.10</artifactId>
+        <version>0.8.2.0</version>
+        <exclusions>
+            <exclusion>
+                <groupId>org.apache.logging.log4j</groupId>
+                <artifactId>log4j-core</artifactId>
+            </exclusion>
+            <exclusion>
+                <groupId>org.apache.log4j</groupId>
+                <artifactId>log4j-core</artifactId>
+            </exclusion>
+            <exclusion>
+                <groupId>log4j</groupId>
+                <artifactId>log4j</artifactId>
+            </exclusion>
+        </exclusions>
+    </dependency>
 
         <dependency>
             <groupId>org.apache.poi</groupId>
@@ -147,6 +181,8 @@
                 </exclusion>
             </exclusions>
 
+
+
         </dependency>
 
         <dependency>
@@ -177,6 +213,7 @@
     </dependencies>
 
     <build>
+
         <plugins>
 
         <plugin>
@@ -297,9 +334,8 @@
             </plugin>
 
         </plugins>
+
     </build>
-
-
 
 
 </project>

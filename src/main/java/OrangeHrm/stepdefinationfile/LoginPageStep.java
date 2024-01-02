@@ -1,5 +1,7 @@
 package OrangeHrm.stepdefinationfile;
 
+import OrangeHrm.data.ExcelDataLoader;
+import OrangeHrm.data.PageDataFoctory;
 import OrangeHrm.pageaction.HomePageAction;
 import OrangeHrm.pageaction.LoginePageAction;
 import io.cucumber.java.After;
@@ -11,27 +13,25 @@ import net.serenitybdd.screenplay.actors.OnlineCast;
 import net.thucydides.core.util.EnvironmentVariables;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
-
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.When;
 import net.serenitybdd.screenplay.Actor;
 
 import static net.serenitybdd.core.Serenity.getDriver;
 
-public class Logineapplication {
+public class LoginPageStep {
 
+    public static final ThreadLocal<PageDataFoctory> dataFactory = new ThreadLocal<>();
+    public static PageDataFoctory getData(){return dataFactory.get();}
 
     private EnvironmentVariables environmentVariables;
 
     @Before
     public void setTheStage(Scenario scenario){
         OnStage.setTheStage(new OnlineCast());
+        dataFactory.set(ExcelDataLoader.INSTANCE.loadDataFactory(scenario.getName().trim()));
 
     }
-
-
-
-
 
     @After
     public void drawTheCurtain() {
@@ -50,15 +50,11 @@ public class Logineapplication {
                 HomePageAction.logOut());
     }
 
-
-
     @Given("{actor} logged into Orange application as {string} profile user")
-    public void userLoggedIntoOrangeApplicationAsProfileUser(Actor actor,String role) {
-        actor.attemptsTo(
+    public void userLoggedIntoOrnageApplicationAsProfileUser(Actor actor,String role) {
+        actor.wasAbleTo(
                 LoginePageAction.openBrowser(),
                 LoginePageAction.loggdIn(role)
         );
-
-
     }
 }

@@ -1,0 +1,1527 @@
+DEBUG 2023-12-30 10:10:08,673 [main][PropertiesFileLocalPreferences.java:153] : LOADING LOCAL PROPERTIES FROM C:\Users\admin\OneDrive\Documents\GitHub\Serenity_UI\serenity.properties 
+DEBUG 2023-12-30 10:10:08,729 [main][PropertiesFileLocalPreferences.java:153] : LOADING LOCAL PROPERTIES FROM C:\Users\admin\OneDrive\Documents\GitHub\Serenity_UI\serenity.properties 
+DEBUG 2023-12-30 10:10:08,730 [main][PropertiesFileLocalPreferences.java:153] : LOADING LOCAL PROPERTIES FROM C:\Users\admin\OneDrive\Documents\GitHub\Serenity_UI\serenity.properties 
+DEBUG 2023-12-30 10:10:08,765 [main][PropertiesFileLocalPreferences.java:168] : serenity.project.name=OrangeHrm
+DEBUG 2023-12-30 10:10:08,766 [main][PropertiesFileLocalPreferences.java:168] : drivers.windows.webdriver.ie.driver=src/main/resources/drivers/IEDriverServer.exe
+DEBUG 2023-12-30 10:10:08,767 [main][PropertiesFileLocalPreferences.java:168] : webdriver.driver=chrome
+DEBUG 2023-12-30 10:10:08,767 [main][PropertiesFileLocalPreferences.java:168] : serenity.extensions.packages=OrangeHrm.ui.helper
+DEBUG 2023-12-30 10:10:08,767 [main][PropertiesFileLocalPreferences.java:168] : drivers.windows.webdriver.chrome.driver=src/main/resources/drivers/chromedriver.exe
+DEBUG 2023-12-30 10:10:08,767 [main][PropertiesFileLocalPreferences.java:168] : environments.webdriver.base.url=https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+DEBUG 2023-12-30 10:10:08,767 [main][PropertiesFileLocalPreferences.java:168] : chrome_experimental_option.excludeSwitches=enable-automation
+DEBUG 2023-12-30 10:10:08,767 [main][PropertiesFileLocalPreferences.java:168] : drivers.windows.webdriver.gecko.driver=src/main/resources/drivers/geckodriver.exe
+DEBUG 2023-12-30 10:10:08,768 [main][PropertiesFileLocalPreferences.java:168] : chrome.switches=--start-maximized;--test-type;--no-sandbox; --ignore-certificate-errors;\r\n--disable-popup-blocking;--disable-default-apps;--disable-extensions-file-access-check;\r\n--incognito; --disable-gpu;--proxy-bypass-list=localhost;--remote-allow-origins=*;*.cib;*.gca;
+DEBUG 2023-12-30 10:10:08,768 [main][PropertiesFileLocalPreferences.java:168] : webdriver.autodownload=false
+DEBUG 2023-12-30 10:10:08,768 [main][PropertiesFileLocalPreferences.java:168] : headless.mode=false
+DEBUG 2023-12-30 10:10:08,768 [main][PropertiesFileLocalPreferences.java:168] : webdriver.timeouts.fluentwait=60000
+DEBUG 2023-12-30 10:10:08,769 [main][PropertiesFileLocalPreferences.java:168] : serenity.take.screenshots=FOR_FAILURES
+DEBUG 2023-12-30 10:10:08,769 [main][PropertiesFileLocalPreferences.java:168] : serenity.full.page.screenshots.strategy=true
+INFO  2023-12-30 10:10:09,115 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+DEBUG 2023-12-30 10:10:09,202 [main][PropertiesFileLocalPreferences.java:153] : LOADING LOCAL PROPERTIES FROM C:\Users\admin\OneDrive\Documents\GitHub\Serenity_UI\serenity.properties 
+DEBUG 2023-12-30 10:10:09,209 [main][PropertiesFileLocalPreferences.java:153] : LOADING LOCAL PROPERTIES FROM C:\Users\admin\OneDrive\Documents\GitHub\Serenity_UI\serenity.properties 
+DEBUG 2023-12-30 10:10:09,210 [main][PropertiesFileLocalPreferences.java:153] : LOADING LOCAL PROPERTIES FROM C:\Users\admin\OneDrive\Documents\GitHub\Serenity_UI\serenity.properties 
+DEBUG 2023-12-30 10:10:09,211 [main][PropertiesFileLocalPreferences.java:168] : serenity.project.name=OrangeHrm
+DEBUG 2023-12-30 10:10:09,211 [main][PropertiesFileLocalPreferences.java:168] : drivers.windows.webdriver.ie.driver=src/main/resources/drivers/IEDriverServer.exe
+DEBUG 2023-12-30 10:10:09,212 [main][PropertiesFileLocalPreferences.java:168] : webdriver.driver=chrome
+DEBUG 2023-12-30 10:10:09,213 [main][PropertiesFileLocalPreferences.java:168] : serenity.extensions.packages=OrangeHrm.ui.helper
+DEBUG 2023-12-30 10:10:09,213 [main][PropertiesFileLocalPreferences.java:168] : drivers.windows.webdriver.chrome.driver=src/main/resources/drivers/chromedriver.exe
+DEBUG 2023-12-30 10:10:09,213 [main][PropertiesFileLocalPreferences.java:168] : environments.webdriver.base.url=https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+DEBUG 2023-12-30 10:10:09,213 [main][PropertiesFileLocalPreferences.java:168] : chrome_experimental_option.excludeSwitches=enable-automation
+DEBUG 2023-12-30 10:10:09,214 [main][PropertiesFileLocalPreferences.java:168] : drivers.windows.webdriver.gecko.driver=src/main/resources/drivers/geckodriver.exe
+DEBUG 2023-12-30 10:10:09,214 [main][PropertiesFileLocalPreferences.java:168] : chrome.switches=--start-maximized;--test-type;--no-sandbox; --ignore-certificate-errors;\r\n--disable-popup-blocking;--disable-default-apps;--disable-extensions-file-access-check;\r\n--incognito; --disable-gpu;--proxy-bypass-list=localhost;--remote-allow-origins=*;*.cib;*.gca;
+DEBUG 2023-12-30 10:10:09,214 [main][PropertiesFileLocalPreferences.java:168] : webdriver.autodownload=false
+DEBUG 2023-12-30 10:10:09,214 [main][PropertiesFileLocalPreferences.java:168] : headless.mode=false
+DEBUG 2023-12-30 10:10:09,214 [main][PropertiesFileLocalPreferences.java:168] : webdriver.timeouts.fluentwait=60000
+DEBUG 2023-12-30 10:10:09,215 [main][PropertiesFileLocalPreferences.java:168] : serenity.take.screenshots=FOR_FAILURES
+DEBUG 2023-12-30 10:10:09,215 [main][PropertiesFileLocalPreferences.java:168] : serenity.full.page.screenshots.strategy=true
+INFO  2023-12-30 10:10:09,219 [main][ConsoleLoggingListener.java:98] : 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+DEBUG 2023-12-30 10:10:09,221 [main][StepEventBus.java:280] : Test suite started for story net.thucydides.core.model.Story@bc7c0988
+WARN  2023-12-30 10:10:09,253 [main][ReportPortal.java:490] : Base url for Report Portal server is not set!
+DEBUG 2023-12-30 10:10:09,257 [main][ReportLaunchProvider.java:32] : Report Portal communication is engaged
+DEBUG 2023-12-30 10:10:09,276 [main][StepEventBus.java:240] : Registering custom listener com.github.invictum.reportportal.ReportPortalListener@1e6308a9
+INFO  2023-12-30 10:10:09,279 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2023-12-30 10:10:09,308 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+DEBUG 2023-12-30 10:10:09,311 [main][StepEventBus.java:280] : Test suite started for story net.thucydides.core.model.Story@bc7c0988
+DEBUG 2023-12-30 10:10:09,311 [main][StepEventBus.java:240] : Registering custom listener com.github.invictum.reportportal.ReportPortalListener@4455f57d
+INFO  2023-12-30 10:10:09,312 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2023-12-30 10:10:09,432 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2023-12-30 10:10:09,546 [main][ConsoleLoggingListener.java:139] : 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component(dashboard;validated-dashboard-with-multiple-component)
+--------------------------------------------------------------------------------
+INFO  2023-12-30 10:10:09,782 [main][Logineapplication.java:60] : Open Browser
+DEBUG 2023-12-30 10:10:10,075 [main][StepInterceptor.java:455] : STARTING STEP: Logineapplication.userLoggedIntoOrnageApplicationAsProfileUser - !#title
+DEBUG 2023-12-30 10:10:10,092 [main][StepInterceptor.java:455] : STARTING STEP: Logineapplication.userLoggedIntoOrnageApplicationAsProfileUser - {0} opens the #targetPageName
+INFO  2023-12-30 10:10:10,136 [main][ChromeDriverProvider.java:47] : Not using automatically driver download
+DEBUG 2023-12-30 10:10:10,559 [main][ClassFinder.java:113] : Could not load class net.serenitybdd.rest.utils.RestSpecificationFactory
+DEBUG 2023-12-30 10:10:10,734 [main][ClassFinder.java:113] : Could not load class net.serenitybdd.rest.utils.RestSpecificationFactory
+DEBUG 2023-12-30 10:10:10,736 [main][ProvideNewDriver.java:38] : Instantiating driver
+DEBUG 2023-12-30 10:10:10,739 [main][ProvideNewDriver.java:39] : Driver capabilities: Capabilities {acceptInsecureCerts: false, autodownload: false, base.url: , browserName: chrome, driver: chrome, goog:chromeOptions: {args: [--start-maximized, --test-type, --no-sandbox, --ignore-certificate-errors, \r\n--disable-popup-blocking, --disable-default-apps, --disable-extensions-file-a..., \r\n--incognito, --disable-gpu, --proxy-bypass-list=localhost, --remote-allow-origins=*, *.cib, *.gca], extensions: []}, timeouts.fluentwait: 60000}
+DEBUG 2023-12-30 10:10:10,805 [main][InternalLoggerFactory.java:63] : Using SLF4J as the default logging framework
+DEBUG 2023-12-30 10:10:10,807 [main][ResourceLeakDetector.java:129] : -Dio.netty.leakDetection.level: simple
+DEBUG 2023-12-30 10:10:10,807 [main][ResourceLeakDetector.java:130] : -Dio.netty.leakDetection.targetRecords: 4
+DEBUG 2023-12-30 10:10:10,810 [main][ResourceLeakDetectorFactory.java:196] : Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@4a1dda83
+DEBUG 2023-12-30 10:10:10,823 [main][PlatformDependent0.java:460] : -Dio.netty.noUnsafe: false
+DEBUG 2023-12-30 10:10:10,823 [main][PlatformDependent0.java:954] : Java version: 21
+DEBUG 2023-12-30 10:10:10,824 [main][PlatformDependent0.java:135] : sun.misc.Unsafe.theUnsafe: available
+DEBUG 2023-12-30 10:10:10,825 [main][PlatformDependent0.java:159] : sun.misc.Unsafe.copyMemory: available
+DEBUG 2023-12-30 10:10:10,825 [main][PlatformDependent0.java:202] : java.nio.Buffer.address: available
+DEBUG 2023-12-30 10:10:10,827 [main][PlatformDependent0.java:285] : direct buffer constructor: unavailable: java.nio.DirectByteBuffer.<init>(long,int)
+DEBUG 2023-12-30 10:10:10,828 [main][PlatformDependent0.java:350] : java.nio.Bits.unaligned: available, true
+DEBUG 2023-12-30 10:10:10,830 [main][PlatformDependent0.java:417] : jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$6 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @1fbc7afb
+DEBUG 2023-12-30 10:10:10,831 [main][PlatformDependent0.java:446] : java.nio.DirectByteBuffer.<init>(long, int): unavailable
+DEBUG 2023-12-30 10:10:10,831 [main][PlatformDependent.java:1103] : sun.misc.Unsafe: available
+DEBUG 2023-12-30 10:10:10,839 [main][PlatformDependent.java:1205] : maxDirectMemory: 4219469824 bytes (maybe)
+DEBUG 2023-12-30 10:10:10,839 [main][PlatformDependent.java:1224] : -Dio.netty.tmpdir: C:\Users\admin\AppData\Local\Temp (java.io.tmpdir)
+DEBUG 2023-12-30 10:10:10,839 [main][PlatformDependent.java:1303] : -Dio.netty.bitMode: 64 (sun.arch.data.model)
+DEBUG 2023-12-30 10:10:10,839 [main][PlatformDependent.java:1063] : Platform: Windows
+DEBUG 2023-12-30 10:10:10,840 [main][PlatformDependent.java:178] : -Dio.netty.maxDirectMemory: -1 bytes
+DEBUG 2023-12-30 10:10:10,840 [main][PlatformDependent.java:185] : -Dio.netty.uninitializedArrayAllocationThreshold: -1
+DEBUG 2023-12-30 10:10:10,841 [main][CleanerJava9.java:71] : java.nio.ByteBuffer.cleaner(): available
+DEBUG 2023-12-30 10:10:10,841 [main][PlatformDependent.java:205] : -Dio.netty.noPreferDirect: false
+DEBUG 2023-12-30 10:10:10,849 [main][PlatformDependent.java:967] : org.jctools-core.MpscChunkedArrayQueue: available
+DEBUG 2023-12-30 10:10:10,871 [main][InternalThreadLocalMap.java:83] : -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+DEBUG 2023-12-30 10:10:10,871 [main][InternalThreadLocalMap.java:86] : -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+DEBUG 2023-12-30 10:10:10,990 [main][JdkSslContext.java:97] : Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+DEBUG 2023-12-30 10:10:10,991 [main][JdkSslContext.java:98] : Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+DEBUG 2023-12-30 10:10:11,023 [main][MultithreadEventLoopGroup.java:44] : -Dio.netty.eventLoopThreads: 24
+DEBUG 2023-12-30 10:10:11,038 [main][NioEventLoop.java:106] : -Dio.netty.noKeySetOptimization: false
+DEBUG 2023-12-30 10:10:11,039 [main][NioEventLoop.java:107] : -Dio.netty.selectorAutoRebuildThreshold: 512
+DEBUG 2023-12-30 10:10:11,096 [main][PooledByteBufAllocator.java:155] : -Dio.netty.allocator.numHeapArenas: 24
+DEBUG 2023-12-30 10:10:11,096 [main][PooledByteBufAllocator.java:156] : -Dio.netty.allocator.numDirectArenas: 24
+DEBUG 2023-12-30 10:10:11,096 [main][PooledByteBufAllocator.java:158] : -Dio.netty.allocator.pageSize: 8192
+DEBUG 2023-12-30 10:10:11,096 [main][PooledByteBufAllocator.java:163] : -Dio.netty.allocator.maxOrder: 11
+DEBUG 2023-12-30 10:10:11,097 [main][PooledByteBufAllocator.java:167] : -Dio.netty.allocator.chunkSize: 16777216
+DEBUG 2023-12-30 10:10:11,097 [main][PooledByteBufAllocator.java:168] : -Dio.netty.allocator.smallCacheSize: 256
+DEBUG 2023-12-30 10:10:11,097 [main][PooledByteBufAllocator.java:169] : -Dio.netty.allocator.normalCacheSize: 64
+DEBUG 2023-12-30 10:10:11,097 [main][PooledByteBufAllocator.java:170] : -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+DEBUG 2023-12-30 10:10:11,097 [main][PooledByteBufAllocator.java:171] : -Dio.netty.allocator.cacheTrimInterval: 8192
+DEBUG 2023-12-30 10:10:11,097 [main][PooledByteBufAllocator.java:172] : -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+DEBUG 2023-12-30 10:10:11,097 [main][PooledByteBufAllocator.java:173] : -Dio.netty.allocator.useCacheForAllThreads: true
+DEBUG 2023-12-30 10:10:11,097 [main][PooledByteBufAllocator.java:174] : -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+DEBUG 2023-12-30 10:10:11,106 [main][ByteBufUtil.java:87] : -Dio.netty.allocator.type: pooled
+DEBUG 2023-12-30 10:10:11,107 [main][ByteBufUtil.java:96] : -Dio.netty.threadLocalDirectBufferSize: 0
+DEBUG 2023-12-30 10:10:11,107 [main][ByteBufUtil.java:99] : -Dio.netty.maxThreadLocalCharBufferSize: 16384
+DEBUG 2023-12-30 10:10:11,374 [Forwarding newSession on session null to remote][DefaultChannelId.java:79] : -Dio.netty.processId: 13744 (auto-detected)
+DEBUG 2023-12-30 10:10:11,376 [Forwarding newSession on session null to remote][NetUtil.java:135] : -Djava.net.preferIPv4Stack: false
+DEBUG 2023-12-30 10:10:11,376 [Forwarding newSession on session null to remote][NetUtil.java:136] : -Djava.net.preferIPv6Addresses: false
+DEBUG 2023-12-30 10:10:11,377 [Forwarding newSession on session null to remote][NetUtilInitializations.java:129] : Loopback interface: loopback_0 (Software Loopback Interface 1, 0:0:0:0:0:0:0:1)
+DEBUG 2023-12-30 10:10:11,379 [Forwarding newSession on session null to remote][NetUtil.java:187] : Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+DEBUG 2023-12-30 10:10:11,380 [Forwarding newSession on session null to remote][DefaultChannelId.java:101] : -Dio.netty.machineId: d4:d8:53:ff:fe:aa:05:ef (auto-detected)
+DEBUG 2023-12-30 10:10:11,405 [AsyncHttpClient-1-2][AbstractByteBuf.java:63] : -Dio.netty.buffer.checkAccessible: true
+DEBUG 2023-12-30 10:10:11,406 [AsyncHttpClient-1-2][AbstractByteBuf.java:64] : -Dio.netty.buffer.checkBounds: true
+DEBUG 2023-12-30 10:10:11,406 [AsyncHttpClient-1-2][ResourceLeakDetectorFactory.java:196] : Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7d0d60a7
+DEBUG 2023-12-30 10:10:11,416 [AsyncHttpClient-1-2][NettyConnectListener.java:73] : Using new Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to '/session'
+DEBUG 2023-12-30 10:10:11,423 [AsyncHttpClient-1-2][Recycler.java:103] : -Dio.netty.recycler.maxCapacityPerThread: 4096
+DEBUG 2023-12-30 10:10:11,423 [AsyncHttpClient-1-2][Recycler.java:104] : -Dio.netty.recycler.maxSharedCapacityFactor: 2
+DEBUG 2023-12-30 10:10:11,423 [AsyncHttpClient-1-2][Recycler.java:105] : -Dio.netty.recycler.linkCapacity: 16
+DEBUG 2023-12-30 10:10:11,424 [AsyncHttpClient-1-2][Recycler.java:106] : -Dio.netty.recycler.ratio: 8
+DEBUG 2023-12-30 10:10:11,424 [AsyncHttpClient-1-2][Recycler.java:107] : -Dio.netty.recycler.delayedQueue.ratio: 8
+DEBUG 2023-12-30 10:10:11,982 [AsyncHttpClient-1-2][Brotli.java:38] : brotli4j not in the classpath; Brotli support will be unavailable.
+DEBUG 2023-12-30 10:10:11,983 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 1404
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 883
+
+DEBUG 2023-12-30 10:10:11,986 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:12,031 [AsyncHttpClient-1-3][NettyConnectListener.java:73] : Using new Channel '[id: 0x569d4ab0, L:/127.0.0.1:60236 - R:localhost/127.0.0.1:60229]' for 'GET' to '/json/version'
+DEBUG 2023-12-30 10:10:12,036 [AsyncHttpClient-1-3][HttpHandler.java:70] : 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /json/version HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+host: localhost:60229
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Security-Policy: frame-ancestors 'none'
+Content-Type: application/json; charset=UTF-8
+content-length: 424
+
+DEBUG 2023-12-30 10:10:12,036 [AsyncHttpClient-1-3][ChannelManager.java:270] : Adding key: http://localhost:60229 for channel [id: 0x569d4ab0, L:/127.0.0.1:60236 - R:localhost/127.0.0.1:60229]
+DEBUG 2023-12-30 10:10:12,041 [main][ThreadLocalRandom.java:214] : -Dio.netty.initialSeedUniquifier: 0xba25c02ac31eed31
+DEBUG 2023-12-30 10:10:12,043 [AsyncHttpClient-1-4][NettyConnectListener.java:73] : Using new Channel '[id: 0x0c20d324, L:/127.0.0.1:60237 - R:localhost/127.0.0.1:60229]' for 'GET' to '/devtools/browser/bb1f866e-cc50-4ae5-b641-ecf7c9ece9dc'
+DEBUG 2023-12-30 10:10:12,049 [AsyncHttpClient-1-4][WebSocketHandler.java:105] : 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /devtools/browser/bb1f866e-cc50-4ae5-b641-ecf7c9ece9dc HTTP/1.1
+upgrade: websocket
+connection: upgrade
+sec-websocket-key: XnWhdMfzshcSGR1uZMZibQ==
+sec-websocket-version: 13
+origin: http://localhost:60229
+host: localhost:60229
+accept: */*
+user-agent: AHC/2.1
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 101 WebSocket Protocol Handshake
+Upgrade: WebSocket
+Connection: Upgrade
+Sec-WebSocket-Accept: iuqF5G4P1HYP9Uwkyc1UV1wojKc=
+
+DEBUG 2023-12-30 10:10:12,057 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:62153 : 1
+DEBUG 2023-12-30 10:10:12,057 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:12,128 [main][ClassFinder.java:113] : Could not load class net.serenitybdd.rest.utils.RestSpecificationFactory
+DEBUG 2023-12-30 10:10:12,136 [Forwarding get on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/url'
+DEBUG 2023-12-30 10:10:12,136 [Forwarding get on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/url'
+DEBUG 2023-12-30 10:10:13,158 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:14,256 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:15,359 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:16,340 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/url HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 111
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:16,340 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:16,344 [Forwarding setTimeout on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/timeouts'
+DEBUG 2023-12-30 10:10:16,345 [Forwarding setTimeout on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/timeouts'
+DEBUG 2023-12-30 10:10:16,348 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/timeouts HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 22
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:16,349 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:16,352 [Forwarding getCurrentUrl on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'GET' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/url'
+DEBUG 2023-12-30 10:10:16,352 [Forwarding getCurrentUrl on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for GET '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/url'
+DEBUG 2023-12-30 10:10:16,357 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /session/115cbbf3ae45f4fe81842ebf13cbbdeb/url HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Cache-Control: no-cache
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 78
+
+DEBUG 2023-12-30 10:10:16,357 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:16,359 [Forwarding getCurrentUrl on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'GET' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/url'
+DEBUG 2023-12-30 10:10:16,359 [Forwarding getCurrentUrl on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for GET '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/url'
+DEBUG 2023-12-30 10:10:16,364 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /session/115cbbf3ae45f4fe81842ebf13cbbdeb/url HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Cache-Control: no-cache
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 78
+
+DEBUG 2023-12-30 10:10:16,364 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:16,371 [main][StepInterceptor.java:459] : STEP DONE: {0} opens the #targetPageName
+DEBUG 2023-12-30 10:10:16,374 [main][StepInterceptor.java:459] : STEP DONE: !#title
+DEBUG 2023-12-30 10:10:16,378 [main][StepInterceptor.java:455] : STARTING STEP: Logineapplication.userLoggedIntoOrnageApplicationAsProfileUser - !#title
+DEBUG 2023-12-30 10:10:16,382 [main][IFrameSwitcher.java:36] : default content already selected for username
+DEBUG 2023-12-30 10:10:16,395 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:16,395 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:16,456 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:16,833 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 67
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 94
+
+DEBUG 2023-12-30 10:10:16,834 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:16,841 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:16,841 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:16,856 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 48786
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:16,856 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:16,862 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:16,862 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:16,872 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 48786
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:16,872 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:16,874 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:16,874 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:16,883 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 48786
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:16,884 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:16,887 [main][StepInterceptor.java:455] : STARTING STEP: Logineapplication.userLoggedIntoOrnageApplicationAsProfileUser - {0} enters #theTextAsAString into #target
+DEBUG 2023-12-30 10:10:16,888 [main][IFrameSwitcher.java:36] : default content already selected for username
+DEBUG 2023-12-30 10:10:16,890 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:16,890 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:16,900 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 67
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 94
+
+DEBUG 2023-12-30 10:10:16,901 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:16,903 [Forwarding sendKeysToElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_2/value'
+DEBUG 2023-12-30 10:10:16,904 [Forwarding sendKeysToElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_2/value'
+DEBUG 2023-12-30 10:10:16,939 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_2/value HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 139
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:16,939 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:16,941 [Forwarding sendKeysToElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_2/value'
+DEBUG 2023-12-30 10:10:16,941 [Forwarding sendKeysToElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_2/value'
+DEBUG 2023-12-30 10:10:16,965 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_2/value HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 139
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:16,966 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:16,971 [Forwarding clearElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_2/clear'
+DEBUG 2023-12-30 10:10:16,971 [Forwarding clearElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_2/clear'
+DEBUG 2023-12-30 10:10:17,020 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_2/clear HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 56
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:17,020 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:17,024 [Forwarding sendKeysToElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_2/value'
+DEBUG 2023-12-30 10:10:17,024 [Forwarding sendKeysToElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_2/value'
+DEBUG 2023-12-30 10:10:17,071 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_2/value HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 137
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:17,072 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:17,082 [main][StepInterceptor.java:459] : STEP DONE: {0} enters #theTextAsAString into #target
+DEBUG 2023-12-30 10:10:17,087 [main][StepInterceptor.java:455] : STARTING STEP: Logineapplication.userLoggedIntoOrnageApplicationAsProfileUser - {0} enters #theTextAsAString into #target
+DEBUG 2023-12-30 10:10:17,087 [main][IFrameSwitcher.java:36] : default content already selected for password
+DEBUG 2023-12-30 10:10:17,090 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:17,090 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:17,107 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 67
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 94
+
+DEBUG 2023-12-30 10:10:17,107 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:17,109 [Forwarding sendKeysToElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_6/value'
+DEBUG 2023-12-30 10:10:17,109 [Forwarding sendKeysToElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_6/value'
+DEBUG 2023-12-30 10:10:17,153 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_6/value HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 139
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:17,154 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:17,155 [Forwarding sendKeysToElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_6/value'
+DEBUG 2023-12-30 10:10:17,156 [Forwarding sendKeysToElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_6/value'
+DEBUG 2023-12-30 10:10:17,177 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_6/value HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 139
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:17,177 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:17,179 [Forwarding clearElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_6/clear'
+DEBUG 2023-12-30 10:10:17,180 [Forwarding clearElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_6/clear'
+DEBUG 2023-12-30 10:10:17,209 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_6/clear HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 56
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:17,210 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:17,212 [Forwarding sendKeysToElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_6/value'
+DEBUG 2023-12-30 10:10:17,212 [Forwarding sendKeysToElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_6/value'
+DEBUG 2023-12-30 10:10:17,242 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_6/value HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 167
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:17,242 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:17,247 [main][StepInterceptor.java:459] : STEP DONE: {0} enters #theTextAsAString into #target
+DEBUG 2023-12-30 10:10:17,250 [main][StepInterceptor.java:455] : STARTING STEP: Logineapplication.userLoggedIntoOrnageApplicationAsProfileUser - {0} clicks on #target
+DEBUG 2023-12-30 10:10:17,250 [main][IFrameSwitcher.java:36] : default content already selected for Click on Login Button
+DEBUG 2023-12-30 10:10:17,253 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:17,254 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:17,267 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 54
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 94
+
+DEBUG 2023-12-30 10:10:17,267 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:17,271 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:17,272 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:17,286 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 48786
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:17,286 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:17,289 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:17,290 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:17,300 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 54
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 94
+
+DEBUG 2023-12-30 10:10:17,300 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:17,302 [Forwarding clickElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_8/click'
+DEBUG 2023-12-30 10:10:17,303 [Forwarding clickElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_8/click'
+DEBUG 2023-12-30 10:10:17,353 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element/14877A0507CF70821D30419D045C88AD_element_8/click HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 56
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:17,354 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:17,361 [main][StepInterceptor.java:459] : STEP DONE: {0} clicks on #target
+DEBUG 2023-12-30 10:10:17,364 [main][StepInterceptor.java:459] : STEP DONE: !#title
+INFO  2023-12-30 10:10:17,365 [main][Logineapplication.java:66] : User Login the Application
+DEBUG 2023-12-30 10:10:17,375 [Forwarding screenshot on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'GET' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/screenshot'
+DEBUG 2023-12-30 10:10:17,376 [Forwarding screenshot on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for GET '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/screenshot'
+DEBUG 2023-12-30 10:10:17,557 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:18,656 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:18,755 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /session/115cbbf3ae45f4fe81842ebf13cbbdeb/screenshot HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Cache-Control: no-cache
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 10876
+
+DEBUG 2023-12-30 10:10:18,756 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+INFO  2023-12-30 10:10:18,766 [main][Logineapplication.java:51] : User Logout the Application
+DEBUG 2023-12-30 10:10:18,783 [main][StepInterceptor.java:455] : STARTING STEP: Logineapplication.userLogsOutTheApplication - !#title
+DEBUG 2023-12-30 10:10:18,787 [main][StepInterceptor.java:455] : STARTING STEP: Logineapplication.userLogsOutTheApplication - {0} clicks on #target
+DEBUG 2023-12-30 10:10:18,788 [main][IFrameSwitcher.java:36] : default content already selected for Click on USer  Profile
+DEBUG 2023-12-30 10:10:18,790 [Forwarding getCurrentUrl on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'GET' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/url'
+DEBUG 2023-12-30 10:10:18,790 [Forwarding getCurrentUrl on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for GET '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/url'
+DEBUG 2023-12-30 10:10:18,795 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /session/115cbbf3ae45f4fe81842ebf13cbbdeb/url HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Cache-Control: no-cache
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 83
+
+DEBUG 2023-12-30 10:10:18,796 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:18,799 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:18,799 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:19,033 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 95
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 95
+
+DEBUG 2023-12-30 10:10:19,033 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:19,035 [Forwarding executeScript on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:19,035 [Forwarding executeScript on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:19,040 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 223
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:19,040 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:19,042 [main][StepInterceptor.java:459] : STEP DONE: {0} clicks on #target
+DEBUG 2023-12-30 10:10:19,043 [main][IFrameSwitcher.java:36] : default content already selected for Click on Logout Button
+DEBUG 2023-12-30 10:10:19,048 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:19,048 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:19,057 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 67
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 95
+
+DEBUG 2023-12-30 10:10:19,058 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:19,062 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:19,062 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:19,071 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 48787
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 15
+
+DEBUG 2023-12-30 10:10:19,071 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:19,074 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:19,074 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:19,082 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 48787
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 15
+
+DEBUG 2023-12-30 10:10:19,082 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:19,196 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:19,197 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:19,207 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 48787
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:19,207 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:19,209 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:19,209 [Forwarding isElementDisplayed on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:19,217 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 48787
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:19,217 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:19,220 [main][StepInterceptor.java:455] : STARTING STEP: Logineapplication.userLogsOutTheApplication - {0} clicks on #target
+DEBUG 2023-12-30 10:10:19,220 [main][IFrameSwitcher.java:36] : default content already selected for Click on Logout Button
+DEBUG 2023-12-30 10:10:19,221 [Forwarding getCurrentUrl on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'GET' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/url'
+DEBUG 2023-12-30 10:10:19,221 [Forwarding getCurrentUrl on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for GET '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/url'
+DEBUG 2023-12-30 10:10:19,224 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /session/115cbbf3ae45f4fe81842ebf13cbbdeb/url HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Cache-Control: no-cache
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 83
+
+DEBUG 2023-12-30 10:10:19,224 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:19,226 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:19,226 [Forwarding findElement on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/element'
+DEBUG 2023-12-30 10:10:19,233 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/element HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 67
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 95
+
+DEBUG 2023-12-30 10:10:19,233 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:19,235 [Forwarding executeScript on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'POST' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:19,235 [Forwarding executeScript on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for POST '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync'
+DEBUG 2023-12-30 10:10:19,757 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:20,861 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:21,957 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:22,084 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/115cbbf3ae45f4fe81842ebf13cbbdeb/execute/sync HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Length: 223
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:22,084 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:22,085 [main][StepInterceptor.java:459] : STEP DONE: {0} clicks on #target
+DEBUG 2023-12-30 10:10:22,088 [main][StepInterceptor.java:455] : STARTING STEP: Logineapplication.userLogsOutTheApplication - performAs
+INFO  2023-12-30 10:10:22,088 [main][WaitUtils.java:20] : Sleeping for10seconds
+DEBUG 2023-12-30 10:10:23,056 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:62153 : 1
+DEBUG 2023-12-30 10:10:23,057 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:24,163 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:62153 : 1
+DEBUG 2023-12-30 10:10:24,163 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:25,256 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:62153 : 1
+DEBUG 2023-12-30 10:10:25,256 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:26,358 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:62153 : 1
+DEBUG 2023-12-30 10:10:26,358 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:27,458 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:62153 : 1
+DEBUG 2023-12-30 10:10:27,459 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:28,556 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:62153 : 1
+DEBUG 2023-12-30 10:10:28,556 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:29,663 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:62153 : 1
+DEBUG 2023-12-30 10:10:29,664 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:30,757 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:62153 : 1
+DEBUG 2023-12-30 10:10:30,757 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:31,856 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:62153 : 1
+DEBUG 2023-12-30 10:10:31,856 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:32,103 [main][StepInterceptor.java:459] : STEP DONE: performAs
+DEBUG 2023-12-30 10:10:32,104 [main][StepInterceptor.java:459] : STEP DONE: !#title
+INFO  2023-12-30 10:10:32,104 [main][Logineapplication.java:54] : Close the Browser
+DEBUG 2023-12-30 10:10:32,107 [Forwarding screenshot on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'GET' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb/screenshot'
+DEBUG 2023-12-30 10:10:32,107 [Forwarding screenshot on session 115cbbf3ae45f4fe81842ebf13cbbdeb to remote][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for GET '/session/115cbbf3ae45f4fe81842ebf13cbbdeb/screenshot'
+DEBUG 2023-12-30 10:10:32,298 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /session/115cbbf3ae45f4fe81842ebf13cbbdeb/screenshot HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Cache-Control: no-cache
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 120612
+
+DEBUG 2023-12-30 10:10:32,299 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+INFO  2023-12-30 10:10:32,315 [main][ConsoleLoggingListener.java:265] : 
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+Validated Dashboard with multiple Component
+----------------------------------------------------------------------
+DEBUG 2023-12-30 10:10:32,387 [main][ClassFinder.java:113] : Could not load class net.serenitybdd.rest.utils.RestSpecificationFactory
+DEBUG 2023-12-30 10:10:32,392 [Driver Command Executor][NettyRequestSender.java:593] : Using pooled Channel '[id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]' for 'DELETE' to 'http://localhost:62153/session/115cbbf3ae45f4fe81842ebf13cbbdeb'
+DEBUG 2023-12-30 10:10:32,393 [Driver Command Executor][NettyRequestSender.java:251] : Using open Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153] for DELETE '/session/115cbbf3ae45f4fe81842ebf13cbbdeb'
+DEBUG 2023-12-30 10:10:32,395 [AsyncHttpClient-1-4][AsyncHttpClientHandler.java:126] : Channel Closed: [id: 0x0c20d324, L:/127.0.0.1:60237 ! R:localhost/127.0.0.1:60229] with attribute DISCARD
+DEBUG 2023-12-30 10:10:32,424 [AsyncHttpClient-1-3][AsyncHttpClientHandler.java:159] : Unexpected I/O exception on channel [id: 0x569d4ab0, L:/127.0.0.1:60236 - R:localhost/127.0.0.1:60229]
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+DEBUG 2023-12-30 10:10:32,431 [AsyncHttpClient-1-3][ChannelManager.java:315] : Closing Channel [id: 0x569d4ab0, L:/127.0.0.1:60236 - R:localhost/127.0.0.1:60229] 
+DEBUG 2023-12-30 10:10:32,435 [AsyncHttpClient-1-3][AsyncHttpClientHandler.java:126] : Channel Closed: [id: 0x569d4ab0, L:/127.0.0.1:60236 ! R:localhost/127.0.0.1:60229] with attribute DISCARD
+DEBUG 2023-12-30 10:10:32,444 [AsyncHttpClient-1-2][HttpHandler.java:70] : 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+DELETE /session/115cbbf3ae45f4fe81842ebf13cbbdeb HTTP/1.1
+User-Agent: selenium/4.1.1 (java windows)
+Content-Type: application/json; charset=utf-8
+host: localhost:62153
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+content-length: 14
+
+DEBUG 2023-12-30 10:10:32,444 [AsyncHttpClient-1-2][ChannelManager.java:270] : Adding key: http://localhost:62153 for channel [id: 0x8a65bb94, L:/127.0.0.1:60228 - R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:32,482 [AsyncHttpClient-1-2][AsyncHttpClientHandler.java:126] : Channel Closed: [id: 0x8a65bb94, L:/127.0.0.1:60228 ! R:localhost/127.0.0.1:62153] with attribute DISCARD
+DEBUG 2023-12-30 10:10:32,714 [main][ReportService.java:228] : Reporting formats: [JSON, HTML]
+DEBUG 2023-12-30 10:10:32,767 [main][ReportService.java:265] : Reporting formats: [JSON, HTML]
+DEBUG 2023-12-30 10:10:32,770 [main][ReportService.java:172] : Generating reports for 1 test outcomes using: net.thucydides.core.reports.json.JSONTestOutcomeReporter@4e9ea32f
+DEBUG 2023-12-30 10:10:32,771 [pool-2-thread-1][ReportService.java:183] : Processing test outcome Dashboard:Validated Dashboard with multiple Component
+DEBUG 2023-12-30 10:10:32,771 [pool-2-thread-1][ReportService.java:244] : net.thucydides.core.reports.json.JSONTestOutcomeReporter@4e9ea32f: Generating report for test outcome: Dashboard:Validated Dashboard with multiple Component
+DEBUG 2023-12-30 10:10:32,773 [pool-2-thread-1][JSONTestOutcomeReporter.java:57] : Generating JSON report for Validated Dashboard with multiple Component to file C:\Users\admin\OneDrive\Documents\GitHub\Serenity_UI\target\site\serenity\defd33c2284d792a2ee77b98c291bdcf2c8fcd93c6c4bc60dc33b90e40bc91d3.json (using temp file C:\Users\admin\OneDrive\Documents\GitHub\Serenity_UI\target\site\serenity\defd33c2284d792a2ee77b98c291bdcf2c8fcd93c6c4bc60dc33b90e40bc91d3.json8b7b3efe-bc5a-4837-92e8-a076e8b88bf4)
+DEBUG 2023-12-30 10:10:32,801 [pool-2-thread-1][ReportService.java:185] : Processing test outcome Dashboard:Validated Dashboard with multiple Component done
+DEBUG 2023-12-30 10:10:32,801 [main][ReportService.java:190] : Shutting down executor service
+DEBUG 2023-12-30 10:10:32,801 [main][ReportService.java:194] : Reports generated in: 31 ms
+DEBUG 2023-12-30 10:10:32,801 [main][ReportService.java:172] : Generating reports for 1 test outcomes using: net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@43ee1cf7
+DEBUG 2023-12-30 10:10:32,802 [pool-3-thread-1][ReportService.java:183] : Processing test outcome Dashboard:Validated Dashboard with multiple Component
+DEBUG 2023-12-30 10:10:32,802 [pool-3-thread-1][ReportService.java:244] : net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@43ee1cf7: Generating report for test outcome: Dashboard:Validated Dashboard with multiple Component
+DEBUG 2023-12-30 10:10:32,852 [pool-3-thread-1][HtmlAcceptanceTestReporter.java:157] : Generating report in defd33c2284d792a2ee77b98c291bdcf2c8fcd93c6c4bc60dc33b90e40bc91d3.html
+DEBUG 2023-12-30 10:10:32,859 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Couldn't find template in cache for "freemarker/default.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG 2023-12-30 10:10:32,860 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/default_en_GB.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,862 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/default_en.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,863 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/default.ftl"): Found
+DEBUG 2023-12-30 10:10:32,863 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Loading template for "freemarker/default.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/net/serenity-bdd/serenity-report-resources/3.1.15/serenity-report-resources-3.1.15.jar!/freemarker/default.ftl"
+DEBUG 2023-12-30 10:10:32,954 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Couldn't find template in cache for "freemarker/libraries/favicon.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG 2023-12-30 10:10:32,954 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/favicon_en_GB.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,955 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/favicon_en.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,955 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/favicon.ftl"): Found
+DEBUG 2023-12-30 10:10:32,955 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Loading template for "freemarker/libraries/favicon.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/net/serenity-bdd/serenity-report-resources/3.1.15/serenity-report-resources-3.1.15.jar!/freemarker/libraries/favicon.ftl"
+DEBUG 2023-12-30 10:10:32,956 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Couldn't find template in cache for "freemarker/libraries/common.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG 2023-12-30 10:10:32,956 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/common_en_GB.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,956 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/common_en.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,956 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/common.ftl"): Found
+DEBUG 2023-12-30 10:10:32,956 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Loading template for "freemarker/libraries/common.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/net/serenity-bdd/serenity-report-resources/3.1.15/serenity-report-resources-3.1.15.jar!/freemarker/libraries/common.ftl"
+DEBUG 2023-12-30 10:10:32,957 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Couldn't find template in cache for "freemarker/libraries/bootstrap-icons.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG 2023-12-30 10:10:32,957 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/bootstrap-icons_en_GB.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,957 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/bootstrap-icons_en.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,957 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/bootstrap-icons.ftl"): Found
+DEBUG 2023-12-30 10:10:32,957 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Loading template for "freemarker/libraries/bootstrap-icons.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/net/serenity-bdd/serenity-report-resources/3.1.15/serenity-report-resources-3.1.15.jar!/freemarker/libraries/bootstrap-icons.ftl"
+DEBUG 2023-12-30 10:10:32,958 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Couldn't find template in cache for "freemarker/libraries/jquery.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG 2023-12-30 10:10:32,958 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/jquery_en_GB.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,958 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/jquery_en.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,958 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/jquery.ftl"): Found
+DEBUG 2023-12-30 10:10:32,958 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Loading template for "freemarker/libraries/jquery.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/net/serenity-bdd/serenity-report-resources/3.1.15/serenity-report-resources-3.1.15.jar!/freemarker/libraries/jquery.ftl"
+DEBUG 2023-12-30 10:10:32,959 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Couldn't find template in cache for "freemarker/libraries/treeview.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG 2023-12-30 10:10:32,959 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/treeview_en_GB.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,959 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/treeview_en.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,960 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/treeview.ftl"): Found
+DEBUG 2023-12-30 10:10:32,960 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Loading template for "freemarker/libraries/treeview.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/net/serenity-bdd/serenity-report-resources/3.1.15/serenity-report-resources-3.1.15.jar!/freemarker/libraries/treeview.ftl"
+DEBUG 2023-12-30 10:10:32,960 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Couldn't find template in cache for "freemarker/libraries/datatables.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG 2023-12-30 10:10:32,961 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/datatables_en_GB.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,962 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/datatables_en.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,962 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/datatables.ftl"): Found
+DEBUG 2023-12-30 10:10:32,963 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Loading template for "freemarker/libraries/datatables.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/net/serenity-bdd/serenity-report-resources/3.1.15/serenity-report-resources-3.1.15.jar!/freemarker/libraries/datatables.ftl"
+DEBUG 2023-12-30 10:10:32,963 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:62153 : 1
+DEBUG 2023-12-30 10:10:32,963 [AsyncHttpClient-1-1][DefaultChannelPool.java:348] : Entry count for : http://localhost:60229 : 1
+DEBUG 2023-12-30 10:10:32,963 [AsyncHttpClient-1-1][DefaultChannelPool.java:302] : Adding Candidate expired Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 ! R:localhost/127.0.0.1:62153] isIdleTimeoutExpired=false isRemotelyClosed=true isTtlExpired=false
+DEBUG 2023-12-30 10:10:32,964 [AsyncHttpClient-1-1][DefaultChannelPool.java:321] : Closing Idle Channel [id: 0x8a65bb94, L:/127.0.0.1:60228 ! R:localhost/127.0.0.1:62153]
+DEBUG 2023-12-30 10:10:32,964 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Couldn't find template in cache for "freemarker/libraries/css.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG 2023-12-30 10:10:32,965 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/css_en_GB.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,965 [AsyncHttpClient-1-1][DefaultChannelPool.java:302] : Adding Candidate expired Channel [id: 0x569d4ab0, L:/127.0.0.1:60236 ! R:localhost/127.0.0.1:60229] isIdleTimeoutExpired=false isRemotelyClosed=true isTtlExpired=false
+DEBUG 2023-12-30 10:10:32,966 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/css_en.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,966 [AsyncHttpClient-1-1][DefaultChannelPool.java:321] : Closing Idle Channel [id: 0x569d4ab0, L:/127.0.0.1:60236 ! R:localhost/127.0.0.1:60229]
+DEBUG 2023-12-30 10:10:32,967 [AsyncHttpClient-1-1][DefaultChannelPool.java:374] : Closed 2 connections out of 2 in 4 ms
+DEBUG 2023-12-30 10:10:32,967 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/css.ftl"): Found
+DEBUG 2023-12-30 10:10:32,968 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Loading template for "freemarker/libraries/css.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/net/serenity-bdd/serenity-report-resources/3.1.15/serenity-report-resources-3.1.15.jar!/freemarker/libraries/css.ftl"
+DEBUG 2023-12-30 10:10:32,968 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Couldn't find template in cache for "freemarker/libraries/jquery-ui.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG 2023-12-30 10:10:32,969 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/jquery-ui_en_GB.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,969 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/jquery-ui_en.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,969 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/jquery-ui.ftl"): Found
+DEBUG 2023-12-30 10:10:32,969 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Loading template for "freemarker/libraries/jquery-ui.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/net/serenity-bdd/serenity-report-resources/3.1.15/serenity-report-resources-3.1.15.jar!/freemarker/libraries/jquery-ui.ftl"
+DEBUG 2023-12-30 10:10:32,970 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : "freemarker/libraries/datatables.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG 2023-12-30 10:10:32,970 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Couldn't find template in cache for "freemarker/libraries/imgpreview.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG 2023-12-30 10:10:32,970 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/imgpreview_en_GB.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,971 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/imgpreview_en.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,971 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/libraries/imgpreview.ftl"): Found
+DEBUG 2023-12-30 10:10:32,971 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Loading template for "freemarker/libraries/imgpreview.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/net/serenity-bdd/serenity-report-resources/3.1.15/serenity-report-resources-3.1.15.jar!/freemarker/libraries/imgpreview.ftl"
+DEBUG 2023-12-30 10:10:32,972 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Couldn't find template in cache for "freemarker/components/report-data.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG 2023-12-30 10:10:32,972 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/components/report-data_en_GB.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,972 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/components/report-data_en.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,972 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/components/report-data.ftl"): Found
+DEBUG 2023-12-30 10:10:32,973 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Loading template for "freemarker/components/report-data.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/net/serenity-bdd/serenity-report-resources/3.1.15/serenity-report-resources-3.1.15.jar!/freemarker/components/report-data.ftl"
+DEBUG 2023-12-30 10:10:32,974 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Couldn't find template in cache for "freemarker/components/stacktrace.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG 2023-12-30 10:10:32,974 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/components/stacktrace_en_GB.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,975 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/components/stacktrace_en.ftl"): Not found
+DEBUG 2023-12-30 10:10:32,975 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/components/stacktrace.ftl"): Found
+DEBUG 2023-12-30 10:10:32,975 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Loading template for "freemarker/components/stacktrace.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/net/serenity-bdd/serenity-report-resources/3.1.15/serenity-report-resources-3.1.15.jar!/freemarker/components/stacktrace.ftl"
+DEBUG 2023-12-30 10:10:33,030 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Couldn't find template in cache for "freemarker/menu.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG 2023-12-30 10:10:33,030 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/menu_en_GB.ftl"): Not found
+DEBUG 2023-12-30 10:10:33,030 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/menu_en.ftl"): Not found
+DEBUG 2023-12-30 10:10:33,030 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : TemplateLoader.findTemplateSource("freemarker/menu.ftl"): Found
+DEBUG 2023-12-30 10:10:33,030 [pool-3-thread-1][_Log4jLoggerFactory.java:45] : Loading template for "freemarker/menu.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/net/serenity-bdd/serenity-report-resources/3.1.15/serenity-report-resources-3.1.15.jar!/freemarker/menu.ftl"
+DEBUG 2023-12-30 10:10:33,106 [pool-3-thread-1][HtmlAcceptanceTestReporter.java:164] : Generated report defd33c2284d792a2ee77b98c291bdcf2c8fcd93c6c4bc60dc33b90e40bc91d3.html in 254 ms
+DEBUG 2023-12-30 10:10:33,106 [pool-3-thread-1][ReportService.java:185] : Processing test outcome Dashboard:Validated Dashboard with multiple Component done
+DEBUG 2023-12-30 10:10:33,107 [main][ReportService.java:190] : Shutting down executor service
+DEBUG 2023-12-30 10:10:33,107 [main][ReportService.java:194] : Reports generated in: 306 ms
+INFO  2023-12-30 10:10:33,117 [main][SerenityReporter.java:783] : Cleanup test resources for URI file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 14:08:26,755 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/admin.feature
+INFO  2024-01-01 14:08:27,018 [main][ConsoleLoggingListener.java:98] : 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+WARN  2024-01-01 14:08:27,093 [main][ReportPortal.java:490] : Base url for Report Portal server is not set!
+INFO  2024-01-01 14:08:27,165 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Admin
+INFO  2024-01-01 14:08:27,232 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 14:08:27,252 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 14:08:27,254 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/myInfo.feature
+INFO  2024-01-01 14:08:27,266 [main][ConsoleLoggingListener.java:119] : Test Suite Started: My info
+INFO  2024-01-01 14:08:27,271 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 14:08:27,280 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 14:08:27,609 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 14:08:27,927 [main][ConsoleLoggingListener.java:139] : 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component(dashboard;validated-dashboard-with-multiple-component)
+--------------------------------------------------------------------------------
+INFO  2024-01-01 14:08:29,353 [main][ConsoleLoggingListener.java:259] : 
+  _____   ___   ___   _____     ___   _  __  ___   ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| | |/ / |_ _| | _ \ | _ \ | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \ | ' <   | |  |  _/ |  _/ | _|  | |) |
+   |_|   |___| |___/   |_|     |___/ |_|\_\ |___| |_|   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component
+---------------------------------------------------------------------------
+INFO  2024-01-01 14:08:31,068 [main][SerenityReporter.java:783] : Cleanup test resources for URI file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 14:11:54,034 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/admin.feature
+INFO  2024-01-01 14:11:54,257 [main][ConsoleLoggingListener.java:98] : 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+WARN  2024-01-01 14:11:54,325 [main][ReportPortal.java:490] : Base url for Report Portal server is not set!
+INFO  2024-01-01 14:11:54,387 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Admin
+INFO  2024-01-01 14:11:54,440 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 14:11:54,458 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 14:11:54,459 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/myInfo.feature
+INFO  2024-01-01 14:11:54,470 [main][ConsoleLoggingListener.java:119] : Test Suite Started: My info
+INFO  2024-01-01 14:11:54,474 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 14:11:54,483 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 14:11:54,704 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 14:11:54,925 [main][ConsoleLoggingListener.java:139] : 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component(dashboard;validated-dashboard-with-multiple-component)
+--------------------------------------------------------------------------------
+INFO  2024-01-01 14:11:55,907 [main][ConsoleLoggingListener.java:259] : 
+  _____   ___   ___   _____     ___   _  __  ___   ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| | |/ / |_ _| | _ \ | _ \ | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \ | ' <   | |  |  _/ |  _/ | _|  | |) |
+   |_|   |___| |___/   |_|     |___/ |_|\_\ |___| |_|   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component
+---------------------------------------------------------------------------
+INFO  2024-01-01 14:11:57,277 [main][SerenityReporter.java:783] : Cleanup test resources for URI file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:16:14,666 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/admin.feature
+INFO  2024-01-01 16:16:15,002 [main][ConsoleLoggingListener.java:98] : 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+WARN  2024-01-01 16:16:15,103 [main][ReportPortal.java:490] : Base url for Report Portal server is not set!
+INFO  2024-01-01 16:16:15,204 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Admin
+INFO  2024-01-01 16:16:15,287 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:16:15,297 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 16:16:15,301 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/myInfo.feature
+INFO  2024-01-01 16:16:15,313 [main][ConsoleLoggingListener.java:119] : Test Suite Started: My info
+INFO  2024-01-01 16:16:15,317 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:16:15,323 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 16:16:15,561 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:16:15,858 [main][ConsoleLoggingListener.java:139] : 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component(dashboard;validated-dashboard-with-multiple-component)
+--------------------------------------------------------------------------------
+INFO  2024-01-01 16:18:17,488 [main][ConsoleLoggingListener.java:259] : 
+  _____   ___   ___   _____     ___   _  __  ___   ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| | |/ / |_ _| | _ \ | _ \ | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \ | ' <   | |  |  _/ |  _/ | _|  | |) |
+   |_|   |___| |___/   |_|     |___/ |_|\_\ |___| |_|   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component
+---------------------------------------------------------------------------
+INFO  2024-01-01 16:18:18,760 [main][SerenityReporter.java:783] : Cleanup test resources for URI file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:18:24,124 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/admin.feature
+INFO  2024-01-01 16:18:24,286 [main][ConsoleLoggingListener.java:98] : 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+WARN  2024-01-01 16:18:24,340 [main][ReportPortal.java:490] : Base url for Report Portal server is not set!
+INFO  2024-01-01 16:18:24,395 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Admin
+INFO  2024-01-01 16:18:24,437 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:18:24,445 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 16:18:24,446 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/myInfo.feature
+INFO  2024-01-01 16:18:24,452 [main][ConsoleLoggingListener.java:119] : Test Suite Started: My info
+INFO  2024-01-01 16:18:24,453 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:18:24,457 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 16:18:24,602 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:18:24,748 [main][ConsoleLoggingListener.java:139] : 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component(dashboard;validated-dashboard-with-multiple-component)
+--------------------------------------------------------------------------------
+INFO  2024-01-01 16:18:25,514 [main][ConsoleLoggingListener.java:259] : 
+  _____   ___   ___   _____     ___   _  __  ___   ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| | |/ / |_ _| | _ \ | _ \ | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \ | ' <   | |  |  _/ |  _/ | _|  | |) |
+   |_|   |___| |___/   |_|     |___/ |_|\_\ |___| |_|   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component
+---------------------------------------------------------------------------
+INFO  2024-01-01 16:18:26,492 [main][SerenityReporter.java:783] : Cleanup test resources for URI file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:42:01,173 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/admin.feature
+INFO  2024-01-01 16:42:01,536 [main][ConsoleLoggingListener.java:98] : 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+WARN  2024-01-01 16:42:01,657 [main][ReportPortal.java:490] : Base url for Report Portal server is not set!
+INFO  2024-01-01 16:42:01,778 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Admin
+INFO  2024-01-01 16:42:01,881 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:42:01,899 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 16:42:01,902 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/myInfo.feature
+INFO  2024-01-01 16:42:01,911 [main][ConsoleLoggingListener.java:119] : Test Suite Started: My info
+INFO  2024-01-01 16:42:01,914 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:42:01,922 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 16:42:02,240 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:42:02,579 [main][ConsoleLoggingListener.java:139] : 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component(dashboard;validated-dashboard-with-multiple-component)
+--------------------------------------------------------------------------------
+INFO  2024-01-01 16:42:04,383 [main][ConsoleLoggingListener.java:259] : 
+  _____   ___   ___   _____     ___   _  __  ___   ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| | |/ / |_ _| | _ \ | _ \ | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \ | ' <   | |  |  _/ |  _/ | _|  | |) |
+   |_|   |___| |___/   |_|     |___/ |_|\_\ |___| |_|   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component
+---------------------------------------------------------------------------
+INFO  2024-01-01 16:42:06,545 [main][SerenityReporter.java:783] : Cleanup test resources for URI file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:42:19,008 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/admin.feature
+INFO  2024-01-01 16:42:19,278 [main][ConsoleLoggingListener.java:98] : 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+WARN  2024-01-01 16:42:19,350 [main][ReportPortal.java:490] : Base url for Report Portal server is not set!
+INFO  2024-01-01 16:42:19,421 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Admin
+INFO  2024-01-01 16:42:19,492 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:42:19,511 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 16:42:19,514 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/myInfo.feature
+INFO  2024-01-01 16:42:19,528 [main][ConsoleLoggingListener.java:119] : Test Suite Started: My info
+INFO  2024-01-01 16:42:19,534 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:42:19,545 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 16:42:19,815 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:42:20,057 [main][ConsoleLoggingListener.java:139] : 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component(dashboard;validated-dashboard-with-multiple-component)
+--------------------------------------------------------------------------------
+INFO  2024-01-01 16:42:21,252 [main][ConsoleLoggingListener.java:259] : 
+  _____   ___   ___   _____     ___   _  __  ___   ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| | |/ / |_ _| | _ \ | _ \ | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \ | ' <   | |  |  _/ |  _/ | _|  | |) |
+   |_|   |___| |___/   |_|     |___/ |_|\_\ |___| |_|   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component
+---------------------------------------------------------------------------
+INFO  2024-01-01 16:42:22,897 [main][SerenityReporter.java:783] : Cleanup test resources for URI file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:50:44,993 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/admin.feature
+INFO  2024-01-01 16:50:45,306 [main][ConsoleLoggingListener.java:98] : 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+WARN  2024-01-01 16:50:45,386 [main][ReportPortal.java:490] : Base url for Report Portal server is not set!
+INFO  2024-01-01 16:50:45,472 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Admin
+INFO  2024-01-01 16:50:45,552 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:50:45,561 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 16:50:45,564 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/myInfo.feature
+INFO  2024-01-01 16:50:45,573 [main][ConsoleLoggingListener.java:119] : Test Suite Started: My info
+INFO  2024-01-01 16:50:45,577 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:50:45,588 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 16:50:45,866 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 16:50:46,131 [main][ConsoleLoggingListener.java:139] : 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component(dashboard;validated-dashboard-with-multiple-component)
+--------------------------------------------------------------------------------
+INFO  2024-01-01 16:50:47,384 [main][ConsoleLoggingListener.java:259] : 
+  _____   ___   ___   _____     ___   _  __  ___   ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| | |/ / |_ _| | _ \ | _ \ | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \ | ' <   | |  |  _/ |  _/ | _|  | |) |
+   |_|   |___| |___/   |_|     |___/ |_|\_\ |___| |_|   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component
+---------------------------------------------------------------------------
+INFO  2024-01-01 16:50:49,254 [main][SerenityReporter.java:783] : Cleanup test resources for URI file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 17:00:35,291 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/admin.feature
+INFO  2024-01-01 17:00:35,589 [main][ConsoleLoggingListener.java:98] : 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+WARN  2024-01-01 17:00:35,667 [main][ReportPortal.java:490] : Base url for Report Portal server is not set!
+INFO  2024-01-01 17:00:35,731 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Admin
+INFO  2024-01-01 17:00:35,798 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 17:00:35,810 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 17:00:35,813 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/myInfo.feature
+INFO  2024-01-01 17:00:35,822 [main][ConsoleLoggingListener.java:119] : Test Suite Started: My info
+INFO  2024-01-01 17:00:35,826 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 17:00:35,837 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 17:00:36,117 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 17:00:36,397 [main][ConsoleLoggingListener.java:139] : 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component(dashboard;validated-dashboard-with-multiple-component)
+--------------------------------------------------------------------------------
+INFO  2024-01-01 17:00:37,841 [main][ConsoleLoggingListener.java:259] : 
+  _____   ___   ___   _____     ___   _  __  ___   ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| | |/ / |_ _| | _ \ | _ \ | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \ | ' <   | |  |  _/ |  _/ | _|  | |) |
+   |_|   |___| |___/   |_|     |___/ |_|\_\ |___| |_|   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component
+---------------------------------------------------------------------------
+INFO  2024-01-01 17:00:39,792 [main][SerenityReporter.java:783] : Cleanup test resources for URI file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 17:01:00,668 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/admin.feature
+INFO  2024-01-01 17:01:00,945 [main][ConsoleLoggingListener.java:98] : 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+WARN  2024-01-01 17:01:01,021 [main][ReportPortal.java:490] : Base url for Report Portal server is not set!
+INFO  2024-01-01 17:01:01,093 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Admin
+INFO  2024-01-01 17:01:01,164 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 17:01:01,181 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 17:01:01,184 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/myInfo.feature
+INFO  2024-01-01 17:01:01,198 [main][ConsoleLoggingListener.java:119] : Test Suite Started: My info
+INFO  2024-01-01 17:01:01,200 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 17:01:01,207 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 17:01:01,463 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 17:01:01,733 [main][ConsoleLoggingListener.java:139] : 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component(dashboard;validated-dashboard-with-multiple-component)
+--------------------------------------------------------------------------------
+INFO  2024-01-01 17:01:02,942 [main][ConsoleLoggingListener.java:259] : 
+  _____   ___   ___   _____     ___   _  __  ___   ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| | |/ / |_ _| | _ \ | _ \ | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \ | ' <   | |  |  _/ |  _/ | _|  | |) |
+   |_|   |___| |___/   |_|     |___/ |_|\_\ |___| |_|   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component
+---------------------------------------------------------------------------
+INFO  2024-01-01 17:01:04,932 [main][SerenityReporter.java:783] : Cleanup test resources for URI file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 17:04:03,336 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/admin.feature
+INFO  2024-01-01 17:04:03,613 [main][ConsoleLoggingListener.java:98] : 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+WARN  2024-01-01 17:04:03,697 [main][ReportPortal.java:490] : Base url for Report Portal server is not set!
+INFO  2024-01-01 17:04:03,771 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Admin
+INFO  2024-01-01 17:04:03,850 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 17:04:03,864 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 17:04:03,866 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/myInfo.feature
+INFO  2024-01-01 17:04:03,879 [main][ConsoleLoggingListener.java:119] : Test Suite Started: My info
+INFO  2024-01-01 17:04:03,881 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 17:04:03,887 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-01 17:04:04,136 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-01 17:04:04,453 [main][ConsoleLoggingListener.java:139] : 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component(dashboard;validated-dashboard-with-multiple-component)
+--------------------------------------------------------------------------------
+INFO  2024-01-01 17:04:38,758 [main][ConsoleLoggingListener.java:259] : 
+  _____   ___   ___   _____     ___   _  __  ___   ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| | |/ / |_ _| | _ \ | _ \ | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \ | ' <   | |  |  _/ |  _/ | _|  | |) |
+   |_|   |___| |___/   |_|     |___/ |_|\_\ |___| |_|   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component
+---------------------------------------------------------------------------
+INFO  2024-01-01 17:04:44,811 [main][SerenityReporter.java:783] : Cleanup test resources for URI file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-02 23:28:27,316 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/admin.feature
+INFO  2024-01-02 23:28:27,940 [main][ConsoleLoggingListener.java:98] : 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+WARN  2024-01-02 23:28:28,155 [main][ReportPortal.java:490] : Base url for Report Portal server is not set!
+INFO  2024-01-02 23:28:28,388 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Admin
+INFO  2024-01-02 23:28:28,537 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-02 23:28:28,550 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-02 23:28:28,554 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/myInfo.feature
+INFO  2024-01-02 23:28:28,573 [main][ConsoleLoggingListener.java:119] : Test Suite Started: My info
+INFO  2024-01-02 23:28:28,578 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-02 23:28:28,590 [main][ConsoleLoggingListener.java:119] : Test Suite Started: Dashboard
+INFO  2024-01-02 23:28:29,059 [main][SerenityReporter.java:196] : Running feature from file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-02 23:28:29,487 [main][ConsoleLoggingListener.java:139] : 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component(dashboard;validated-dashboard-with-multiple-component)
+--------------------------------------------------------------------------------
+INFO  2024-01-02 23:33:05,916 [main][ConsoleLoggingListener.java:259] : 
+  _____   ___   ___   _____     ___   _  __  ___   ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| | |/ / |_ _| | _ \ | _ \ | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \ | ' <   | |  |  _/ |  _/ | _|  | |) |
+   |_|   |___| |___/   |_|     |___/ |_|\_\ |___| |_|   |_|   |___| |___/ 
+
+Validated Dashboard with multiple Component
+---------------------------------------------------------------------------
+INFO  2024-01-02 23:33:10,479 [main][SerenityReporter.java:783] : Cleanup test resources for URI file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
