@@ -50,7 +50,7 @@ public enum ExcelDataLoader {
         r.getLastCellNum();
         for (int i = 2; i < r.getLastCellNum(); i++) {
             String columnName = r.getCell(i).getStringCellValue().trim();
-            pages.put(STR."LoginePage\{columnName}", new PageData(getTestData("LoginPage", columnName)));
+            pages.put(STR."LoginPage\{columnName}", new PageData(getTestData("LoginPage", columnName)));
 
         }
 
@@ -143,7 +143,7 @@ public enum ExcelDataLoader {
 
         if (referenceSheetName == null) {
 
-            throw new DataLoaderException("The data file Doesn't have the define scenario name" + scenarioName);
+            throw new DataLoaderException(STR."The data file Doesn't have the define scenario name\{scenarioName}");
         }
 
         return referenceSheetName;

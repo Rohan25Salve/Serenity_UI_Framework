@@ -66,13 +66,12 @@ public class AbstractPageAction {
     public static String getTestData(String page , String elementKey){
         String value;
         try{
-
             value = LoginPageStep.getData().getPage(page).getTestData().get(elementKey);
         } catch (Exception e){
-
-            throw new DataLoaderException("Target Key is not Present/matching to get the test data -" + elementKey);
+            throw new DataLoaderException(STR."Target Key is not Present/matching to get the test data -\{elementKey}");
         }
-        return Optional.ofNullable(value).orElseThrow(() -> new DataLoaderException("Testdata" + elementKey + "is not found test data Sheet --" + page));
+
+        return Optional.ofNullable(value).orElseThrow(() -> new DataLoaderException(STR."Testdata\{elementKey}is not found test data Sheet --\{page}"));
 
     }
 
