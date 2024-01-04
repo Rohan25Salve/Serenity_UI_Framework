@@ -23,7 +23,7 @@ public class LoginePageAction {
     public static Performable loggdIn(String role){
 
         String username = AbstractPageAction.getTestData(getPage()+ ":"+ role,"username");
-        String password = AbstractPageAction.getTestData(getPage()+ ":"+ role,"username");
+        String password = AbstractPageAction.getTestData(getPage()+ ":"+ role,"password");
 
         return Task.where("Logine Application",
                 WaitUntil.the(LoginPage.USERNAME,isVisible()).forNoMoreThan(100).seconds(),

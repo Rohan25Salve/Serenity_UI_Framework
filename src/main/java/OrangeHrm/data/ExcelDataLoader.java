@@ -9,6 +9,7 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -48,6 +49,7 @@ public enum ExcelDataLoader {
 
         Row r = workbook.getSheet("LoginPage").getRow(0);
         r.getLastCellNum();
+
         for (int i = 2; i < r.getLastCellNum(); i++) {
             String columnName = r.getCell(i).getStringCellValue().trim();
             pages.put(STR."LoginPage\{columnName}", new PageData(getTestData("LoginPage", columnName)));
@@ -76,26 +78,26 @@ public enum ExcelDataLoader {
 
     private Map<String, String> getTestData(String pageSheetName, String testDataColumn) {
 
-        Sheet SheetObj = workbook.getSheet(pageSheetName);
+        Sheet sheetObj = workbook.getSheet(pageSheetName);
         // get the column name - column name is always the first row
 
-        Row columnNameRow = SheetObj.getRow(0);
+        Row columnNameRow = sheetObj.getRow(0);
         int cellCount = columnNameRow.getLastCellNum() - columnNameRow.getFirstCellNum();
         int testDataCellIndex = 0;
         for (int cellIndex = 0; cellIndex < cellCount + 1; cellIndex++) {
             String columnName = columnNameRow.getCell(cellIndex).getStringCellValue();
             if (testDataColumn.equalsIgnoreCase(columnName)) {
-
                 testDataCellIndex = cellIndex;
                 break;
             }
         }
 
         Map<String, String> testData = new HashMap<>();
-        int rowCount = SheetObj.getFirstRowNum() - SheetObj.getFirstRowNum();
+        int rowCount = sheetObj.getLastRowNum() - sheetObj.getFirstRowNum();
         for (int rowIndex = 1; rowIndex < rowCount + 1; rowIndex++) {
+            Row row = sheetObj.getRow(rowIndex);
 
-            Row row = SheetObj.getRow(rowIndex);
+
             String elementKey = row.getCell(1).getStringCellValue();
             String value = row.getCell(testDataCellIndex).getStringCellValue().trim();
             String inputvalue = "";
@@ -105,21 +107,20 @@ public enum ExcelDataLoader {
                     if (value.split(":").length == 3) {
 
                         inputvalue = inputvalue + value.split(":")[2];
-                    } else if (value.split(":")[0].contains("RandomNumber")) {
-                        inputvalue = AbstractPageAction.getRandomNumber(Integer.parseInt(value.split(":")[1]));
-                    } else if (value.split(":")[0].contains("CurrentDate")) {
-                        inputvalue = AbstractPageAction.getCurrentDate(value.split(":")[1], value.split(":")[2]);
+
                     }
-
-
-                } else {
-
-                    inputvalue = value;
+                } else if (value.split(":")[0].contains("RandomNumber")) {
+                    inputvalue = AbstractPageAction.getRandomNumber(Integer.parseInt(value.split(":")[1]));
+                } else if (value.split(":")[0].contains("CurrentDate")) {
+                    inputvalue = AbstractPageAction.getCurrentDate(value.split(":")[1], value.split(":")[2]);
                 }
 
-                testData.put(elementKey, inputvalue);
-            }
 
+            } else {
+
+                inputvalue = value;
+            }
+            testData.put(elementKey, inputvalue);
 
         }
         return testData;
