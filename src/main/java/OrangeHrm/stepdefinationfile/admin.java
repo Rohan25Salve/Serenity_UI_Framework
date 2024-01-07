@@ -13,4 +13,11 @@ public class admin {
                 );
     }
 
+    @And("{actor} Click on {string}  tab")
+    public void userclickontab(Actor actor,String tab) {
+        actor.attemptsTo(
+                userclickonsideBar(tab)
+        );
+    }
+
 }

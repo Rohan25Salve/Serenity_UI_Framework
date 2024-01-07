@@ -18,9 +18,8 @@ public class HomePageAction {
        return Task.where("logged out",
                JavaScriptClick.on(HomePage.USER_PROFILE),
                WaitUntil.the(HomePage.CLICK_ON_LOGOUT_BUTTON,isVisible()).forNoMoreThan(100).seconds(),
-               JavaScriptClick.on(HomePage.CLICK_ON_LOGOUT_BUTTON),
-               WaitUtils.sleep(10)
-               );
+               JavaScriptClick.on(HomePage.CLICK_ON_LOGOUT_BUTTON)
+       );
 
     }
 }
