@@ -4,7 +4,7 @@ import io.cucumber.java.en.And;
 import net.serenitybdd.screenplay.Actor;
 import static OrangeHrm.pageaction.adminPageAction.userclickonsideBar;
 
-public class admin {
+public class adminPageStep {
 
     @And("{actor} Click on {string} Side bar tab")
     public void userclickonsidebar(Actor actor,String sidebar) {
