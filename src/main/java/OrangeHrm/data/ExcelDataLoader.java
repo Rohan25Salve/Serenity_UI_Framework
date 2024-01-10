@@ -52,7 +52,7 @@ public enum ExcelDataLoader {
 
         for (int i = 2; i < r.getLastCellNum(); i++) {
             String columnName = r.getCell(i).getStringCellValue().trim();
-            pages.put(STR."LoginPage\{columnName}", new PageData(getTestData("LoginPage", columnName)));
+            pages.put(STR."LoginPage:\{columnName}", new PageData(getTestData("LoginPage", columnName)));
 
         }
 

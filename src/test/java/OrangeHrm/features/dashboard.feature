@@ -1,5 +1,5 @@
 @dashboard
-  Feature:Dashboard
+  Feature:dashboard
 
     @dashboard_01
     Scenario:  Validated Dashboard with multiple Component
