@@ -1525,3 +1525,67 @@ INFO  2024-01-02 23:33:05,916 [main][ConsoleLoggingListener.java:259] :
 Validated Dashboard with multiple Component
 ---------------------------------------------------------------------------
 INFO  2024-01-02 23:33:10,479 [main][SerenityReporter.java:783] : Cleanup test resources for URI file:///C:/Users/admin/OneDrive/Documents/GitHub/Serenity_UI/src/test/java/OrangeHrm/features/dashboard.feature
+INFO  2024-01-10 18:48:52,851 [main][LoginPageStep.java:68] : Application Open as aManager
+WARN  2024-01-10 18:48:53,367 [main][ReportPortal.java:490] : Base url for Report Portal server is not set!
+INFO  2024-01-10 18:48:53,466 [main][ChromeDriverProvider.java:47] : Not using automatically driver download
+INFO  2024-01-10 18:49:05,415 [main][WaitUtils.java:20] : Sleeping for10seconds
+INFO  2024-01-10 18:49:15,570 [main][LoginPageStep.java:61] : Application logout
+INFO  2024-01-10 18:49:16,901 [main][WaitUtils.java:20] : Sleeping for3seconds
+INFO  2024-01-10 18:55:58,535 [main][LoginPageStep.java:68] : Application Open as aAdmin
+INFO  2024-01-10 18:55:58,865 [main][LoginPageStep.java:68] : Application Open as aAdmin
+INFO  2024-01-10 18:55:58,889 [main][LoginPageStep.java:68] : Application Open as aAdmin
+INFO  2024-01-10 18:55:58,915 [main][LoginPageStep.java:68] : Application Open as aAdmin
+INFO  2024-01-10 18:55:58,940 [main][LoginPageStep.java:68] : Application Open as aAdmin
+INFO  2024-01-10 18:55:58,965 [main][LoginPageStep.java:68] : Application Open as aAdmin
+INFO  2024-01-10 18:55:58,987 [main][LoginPageStep.java:68] : Application Open as aAdmin
+INFO  2024-01-10 18:55:59,010 [main][LoginPageStep.java:68] : Application Open as aAdmin
+INFO  2024-01-10 18:55:59,031 [main][LoginPageStep.java:68] : Application Open as aAdmin
+INFO  2024-01-10 18:55:59,054 [main][LoginPageStep.java:68] : Application Open as aAdmin
+INFO  2024-01-10 18:55:59,078 [main][LoginPageStep.java:68] : Application Open as aAdmin
+INFO  2024-01-10 18:56:41,607 [main][LoginPageStep.java:68] : Application Open as aManager
+WARN  2024-01-10 18:56:42,046 [main][ReportPortal.java:490] : Base url for Report Portal server is not set!
+INFO  2024-01-10 18:56:42,143 [main][ChromeDriverProvider.java:47] : Not using automatically driver download
+INFO  2024-01-10 18:56:51,537 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:56:53,683 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:56:55,824 [main][LoginPageStep.java:61] : Application logout
+INFO  2024-01-10 18:56:56,722 [main][WaitUtils.java:20] : Sleeping for3seconds
+INFO  2024-01-10 18:56:59,840 [main][LoginPageStep.java:68] : Application Open as aManager
+INFO  2024-01-10 18:57:03,246 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:57:05,346 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:57:07,548 [main][LoginPageStep.java:61] : Application logout
+INFO  2024-01-10 18:57:08,523 [main][WaitUtils.java:20] : Sleeping for3seconds
+INFO  2024-01-10 18:57:11,642 [main][LoginPageStep.java:68] : Application Open as aManager
+INFO  2024-01-10 18:57:14,843 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:57:16,982 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:57:19,145 [main][LoginPageStep.java:61] : Application logout
+INFO  2024-01-10 18:57:20,463 [main][WaitUtils.java:20] : Sleeping for3seconds
+INFO  2024-01-10 18:57:23,577 [main][LoginPageStep.java:68] : Application Open as aManager
+INFO  2024-01-10 18:57:26,700 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:57:28,820 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:57:30,974 [main][LoginPageStep.java:61] : Application logout
+INFO  2024-01-10 18:57:32,321 [main][WaitUtils.java:20] : Sleeping for3seconds
+INFO  2024-01-10 18:57:35,453 [main][LoginPageStep.java:68] : Application Open as aManager
+INFO  2024-01-10 18:57:38,407 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:57:40,506 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:57:42,629 [main][LoginPageStep.java:61] : Application logout
+INFO  2024-01-10 18:57:43,585 [main][WaitUtils.java:20] : Sleeping for3seconds
+INFO  2024-01-10 18:57:46,704 [main][LoginPageStep.java:68] : Application Open as aManager
+INFO  2024-01-10 18:57:49,802 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:57:51,929 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:57:54,069 [main][LoginPageStep.java:61] : Application logout
+INFO  2024-01-10 18:57:54,936 [main][WaitUtils.java:20] : Sleeping for3seconds
+INFO  2024-01-10 18:57:58,057 [main][LoginPageStep.java:68] : Application Open as aManager
+INFO  2024-01-10 18:58:01,058 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:58:03,172 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:58:05,304 [main][LoginPageStep.java:61] : Application logout
+INFO  2024-01-10 18:58:06,233 [main][WaitUtils.java:20] : Sleeping for3seconds
+INFO  2024-01-10 18:58:09,364 [main][LoginPageStep.java:68] : Application Open as aManager
+INFO  2024-01-10 18:58:12,848 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:58:14,995 [main][WaitUtils.java:20] : Sleeping for2seconds
+INFO  2024-01-10 18:58:17,138 [main][LoginPageStep.java:61] : Application logout
+INFO  2024-01-10 18:58:18,038 [main][WaitUtils.java:20] : Sleeping for3seconds
+INFO  2024-01-10 18:58:21,158 [main][LoginPageStep.java:68] : Application Open as aManager
+INFO  2024-01-10 19:00:05,668 [main][LoginPageStep.java:68] : Application Open as aManager
+INFO  2024-01-10 19:00:05,958 [main][LoginPageStep.java:61] : Application logout
+INFO  2024-01-10 19:00:06,101 [main][LoginPageStep.java:68] : Application Open as aManager
+INFO  2024-01-10 19:00:06,352 [main][LoginPageStep.java:61] : Application logout

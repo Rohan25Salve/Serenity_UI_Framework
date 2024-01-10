@@ -3,7 +3,7 @@ Feature:myInfo
 
   @myInfo_01
   Scenario:  Validate admin Section
-    Given User logged into Orange application as "Admin" profile user
+    Given User logged into Orange application as "Manager" profile user
     And User Click on "My Info" Side bar tab
     When User logs out the application
 
@@ -17,7 +17,7 @@ Feature:myInfo
 
   @myInfo_03
   Scenario Outline: Verify tab on Side Search bar
-    Given User logged into Orange application as "Admin" profile user
+    Given User logged into Orange application as "Manager" profile user
     And User Validated side Search bar "<Tab>"
     When User logs out the application
     Examples:
@@ -30,7 +30,7 @@ Feature:myInfo
       | Performance |
       | Dashboard   |
       | Directory   |
-      | Maintenace  |
+      | Maintenance |
       | Claim       |
       | Buzz        |
 

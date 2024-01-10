@@ -17,6 +17,8 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+import static org.openxmlformats.schemas.spreadsheetml.x2006.main.STCellType.STR;
+
 @Getter
 @Slf4j
 public enum ExcelDataLoader {
@@ -52,7 +54,7 @@ public enum ExcelDataLoader {
 
         for (int i = 2; i < r.getLastCellNum(); i++) {
             String columnName = r.getCell(i).getStringCellValue().trim();
-            pages.put(STR."LoginPage:\{columnName}", new PageData(getTestData("LoginPage", columnName)));
+            pages.put("LoginPage:"+columnName, new PageData(getTestData("LoginPage", columnName)));
 
         }
 
@@ -144,7 +146,7 @@ public enum ExcelDataLoader {
 
         if (referenceSheetName == null) {
 
-            throw new DataLoaderException(STR."The data file Doesn't have the define scenario name\{scenarioName}");
+            throw new DataLoaderException("The data file Doesn't have the define scenario name"+scenarioName);
         }
 
         return referenceSheetName;
