@@ -8,7 +8,7 @@
     </appender>
 
     <logger name="root" level="DEBUG"/>
-    <Logger name="net.serenitybdd" level="INFO"/>
+    <Logger name="net.serenity" level="INFO"/>
     <Logger name="net.thucydides" Level="INFO"/>
 
 

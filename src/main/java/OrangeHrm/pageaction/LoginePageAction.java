@@ -2,6 +2,7 @@ package OrangeHrm.pageaction;
 
 import OrangeHrm.helper.PageContants;
 import OrangeHrm.pageobject.LoginPage;
+import net.serenitybdd.core.steps.UIInteractions;
 import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Click;
@@ -21,11 +22,16 @@ public class LoginePageAction {
     }
 
     public static Performable loggdIn(String role){
+
+        String username = AbstractPageAction.getTestData(getPage() + ":" + role,"username");
+        String password = AbstractPageAction.getTestData(getPage() + ":" + role,"password");
+
         return Task.where("Logine Application",
                 WaitUntil.the(LoginPage.USERNAME,isVisible()).forNoMoreThan(100).seconds(),
-                Enter.theValue("Admin").into(LoginPage.USERNAME),
-                Enter.theValue("admin123").into(LoginPage.PASSWORD),
+                Enter.theValue(username).into(LoginPage.USERNAME),
+                Enter.theValue(password).into(LoginPage.PASSWORD),
                 Click.on(LoginPage.CLICK_ON_LOGIN_BUTTON)
+
         );
 
 
