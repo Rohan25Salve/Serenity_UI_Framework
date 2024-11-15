@@ -42,6 +42,8 @@ public class AbstractPageAction {
             log.info("Problem in generating with Random function ()", e.getMessage());
         }
 
+
+
         return sb.toString();
     }
 
