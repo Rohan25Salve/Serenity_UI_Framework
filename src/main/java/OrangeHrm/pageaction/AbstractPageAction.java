@@ -26,6 +26,9 @@ public class AbstractPageAction {
     public static String getRandomNumber(int length) { return generateRandom (NUMERIC, length); }
 
     private static String generateRandom(String value, int length) {
+
+
+
         StringBuilder sb = new StringBuilder(length);
 
         try {
