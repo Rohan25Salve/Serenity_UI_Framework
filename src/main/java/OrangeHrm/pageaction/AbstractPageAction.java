@@ -28,6 +28,8 @@ public class AbstractPageAction {
     private static String generateRandom(String value, int length) {
         StringBuilder sb = new StringBuilder(length);
 
+
+
         try {
             for (int i = 0; i < length ; i++) {
 
