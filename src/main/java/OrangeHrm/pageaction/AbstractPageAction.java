@@ -30,6 +30,8 @@ public class AbstractPageAction {
 
         try {
             for (int i = 0; i < length ; i++) {
+
+
                 int rndCharAt = SecureRandom.getInstanceStrong().nextInt(value.length());
                 char rndChar = value.charAt(rndCharAt);
                 sb.append(rndChar);
