@@ -26,9 +26,6 @@ public class AbstractPageAction {
     public static String getRandomNumber(int length) { return generateRandom (NUMERIC, length); }
 
     private static String generateRandom(String value, int length) {
-
-
-
         StringBuilder sb = new StringBuilder(length);
 
         try {
@@ -41,8 +38,6 @@ public class AbstractPageAction {
         catch (NoSuchAlgorithmException e) {
             log.info("Problem in generating with Random function ()", e.getMessage());
         }
-
-
 
         return sb.toString();
     }
