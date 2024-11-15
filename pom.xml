@@ -19,10 +19,6 @@
         <webdriver.base.url></webdriver.base.url>
         <parallel.tests>2</parallel.tests>
     </properties>
-
-
-
-
     <dependencies>
         <dependency>
             <groupId>org.apache.pdfbox</groupId>
